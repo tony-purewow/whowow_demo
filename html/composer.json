@@ -6,7 +6,9 @@
     "require": {
         "composer/installers": "^1.0.24",
         "wikimedia/composer-merge-plugin": "^1.4",
-        "drupal/social_auth_google": "~2.0"
+        "drupal/social_auth_google": "~2.0",
+        "drupal/jsonapi": "^1.10",
+        "drupal/jsonapi_extras": "^1.0"
     },
     "replace": {
         "drupal/core": "^8.4"
